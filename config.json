@@ -1,0 +1,30 @@
+{
+    "engine_enabled": true,
+    "left_click_scroll_nav": true,
+    "nav_mode": "alt_tab",
+    "drag_threshold": 12,
+    "reverse_scroll_direction": false,
+    "double_click_paste": true,
+    "double_click_interval_ms": 400,
+    "desktop_triple_click_launch": true,
+    "desktop_triple_click_apps": [
+        {
+            "name": "Google Chrome",
+            "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Chrome.lnk",
+            "enabled": true
+        },
+        {
+            "name": "Visual Studio Code",
+            "path": "C:\\Users\\thion\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
+            "enabled": true
+        },
+        {
+            "name": "Antigravity IDE",
+            "path": "C:\\Users\\thion\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Antigravity IDE\\Antigravity IDE.lnk",
+            "enabled": true
+        }
+    ],
+    "start_on_boot": true,
+    "run_silent_on_startup": true,
+    "minimize_to_tray_on_close": true
+}
